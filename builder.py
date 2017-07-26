@@ -1,3 +1,13 @@
+"""
+应用实例：
+django-query-builder [http://django-query-builder.readthedocs.io/en/latest/usage_examples.html]
+
+想要创建一个复杂对象(对象由多个部分构成，且对象的创建要经过多个不同的步骤， 这些步骤也许还需遵从特定的顺序)
+要求一个对象能有不同的表现，并希望将对象的构造与表现解耦 
+想要在某个时间点创建对象，但在稍后的时间点再访问
+
+"""
+
 import abc
 
 
