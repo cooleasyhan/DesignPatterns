@@ -9,3 +9,7 @@
     builder.py
 ### 原型模式 
     prototype.py
+
+## 结构型模式
+    adapter.py
+    
